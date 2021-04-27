@@ -23,7 +23,10 @@ The following challenges have been submitted by Ross Jamieson:
 1. **Murica** - List all the words that can be spelled using only the [2-letter shortcodes](https://raw.githubusercontent.com/jasonong/List-of-US-States/master/states.csv) for the 50 American states. (AL, AK, AZ, AR, CA, CO, CT, …)
 Example: VANDAL (Virginia, North Dakota, Alabama).
 1. **Backwards** - List all words for which the reversed word is also a word, but not a palindrome. Example: STRESSED
-1. Additional challengs from Ross can be found [here](Resources\Ross-Jamieson-Word-Challenges.docx) (Word document).
+1. **Odd/Even** - List all words for which the odd/even letters make another word. The “odd letters” are the 1st, 3rd, 5th, etc, and the “even letters” are the 2nd, 4th, 6th, …. Only words of 5+ letters (for odd) and 6+ letters (for even) should be considered, i.e. the resulting word must be 3+ letters. Examples: DERBY (which makes DRY), UNBUNDLED (which makes NUDE)
+1. **Crossword Solver** - Given a String parameter in the form “??E?R”, find all words that fit.Example: “?R?EFA??” → ARTEFACT, FREEFALL.
+Example: “??A?M” → ALARM, CHARM, CHASM, PSALM, SWARM…
+1. Additional challenges from Ross can be found [here](Resources\Ross-Jamieson-Word-Challenges.docx) (Word document).
 
 ## Looking for Contributors
 
