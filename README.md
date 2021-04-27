@@ -4,7 +4,7 @@
 
  ## Colab (Python) Template
 
- The Google Colab template for doing these challenges in Python can be found [here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Word_Challenges_Template_(Colab_Python).ipynb).
+ The Google Colab template for doing these challenges in Python can be found [here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Word_Challenges_Template_Colab_Python.ipynb).
 
 ## Example Challenges
 
