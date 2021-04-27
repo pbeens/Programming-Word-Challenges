@@ -23,6 +23,7 @@ The following challenges have been submitted by Ross Jamieson:
 1. **Murica** - List all the words that can be spelled using only the [2-letter shortcodes](https://raw.githubusercontent.com/jasonong/List-of-US-States/master/states.csv) for the 50 American states. (AL, AK, AZ, AR, CA, CO, CT, …)
 Example: VANDAL (Virginia, North Dakota, Alabama).
 1. **Backwards** - List all words for which the reversed word is also a word, but not a palindrome. Example: STRESSED
+1. Additional challengs from Ross can be found [here](Resources\Ross-Jamieson-Word-Challenges.docx) (Word document).
 
 ## Looking for Contributors
 
