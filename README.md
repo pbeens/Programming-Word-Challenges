@@ -28,6 +28,13 @@ Example: VANDAL (Virginia, North Dakota, Alabama).
 Example: “??A?M” → ALARM, CHARM, CHASM, PSALM, SWARM…
 1. Additional challenges from Ross can be found [here](Resources\Ross-Jamieson-Word-Challenges.docx) (Word document).
 
+## Other Text-Based Challenges
+
+These text-based challenges do not rely on the importing of a text file:
+
+1. **Blobs** - A blob is an arrangement of at least 5 letters of the same kind that are connected... [[Link]](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Blobs_Programming_Challenge.ipynb)
+
+
 ## Looking for Contributors
 
 If you have any ideas for additional challenges, please mention them in the comments below and I will add it to this template. Or better yet
