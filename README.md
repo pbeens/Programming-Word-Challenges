@@ -37,4 +37,4 @@ These text-based challenges do not rely on the importing of a text file:
 
 ## Looking for Contributors
 
-If you have any ideas for additional challenges, please mention them in the comments below and I will add it to this template. Or better yet
+If you have any ideas for additional challenges, add an "Issue" above, email them directly to me at pbeens at gmail dot com, or share with me via twitter at [@pbeens](https://twitter.com/pbeens).
