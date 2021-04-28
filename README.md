@@ -28,6 +28,10 @@ Example: VANDAL (Virginia, North Dakota, Alabama).
 Example: “??A?M” → ALARM, CHARM, CHASM, PSALM, SWARM…
 1. Additional challenges from Ross can be found [here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/Ross-Jamieson-Word-Challenges.docx) (Word document).
 
+Submitted by Doug Peterson:
+
+15. **Word Chain** - A well known word game involves changing one word into another word by successively substituting one letter at a time, by another letter, in such a way that the intermediate words still make sense. For example, to change the word ALONE into CRAZY could involve the following steps: ALONE → CLONE → CRONE → CRANE → CRAZE → CRAZY. Each of these intermediate words are acceptable English words. Sometimes you are forced to extend the chain to several more words, to ensure that each intermediate word be found in the dictionary. In this problem we will only consider 5-letter words, and for convenience, there is a “dictionary” of 5-letter words available [here](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/5-letter-words.txt).
+
 ## Other Text-Based Challenges
 
 These text-based challenges do not rely on the importing of a text file:
@@ -37,7 +41,7 @@ These text-based challenges do not rely on the importing of a text file:
 ## Other Resources
 
 1. [Here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/Ross-Jamieson-Word-Challenges.docx) is Ross Jamieson's original Word Doc of challenges. 
-1. [Here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/5_Letter_Words.ipynb) is the notebook that was used to create the [5-letter words datafile](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/5-letter-words.txt) that is needed for one challenge. 
+1. [Here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/5_Letter_Words.ipynb) is the notebook that was used to create the [5-letter words datafile](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/5-letter-words.txt) that is needed for one challenge.
 
 ## Text Files
 
