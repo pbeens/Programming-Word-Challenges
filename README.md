@@ -26,7 +26,7 @@ Example: VANDAL (Virginia, North Dakota, Alabama).
 1. **Odd/Even** - List all words for which the odd/even letters make another word. The “odd letters” are the 1st, 3rd, 5th, etc, and the “even letters” are the 2nd, 4th, 6th, …. Only words of 5+ letters (for odd) and 6+ letters (for even) should be considered, i.e. the resulting word must be 3+ letters. Examples: DERBY (which makes DRY), UNBUNDLED (which makes NUDE)
 1. **Crossword Solver** - Given a String parameter in the form “??E?R”, find all words that fit.Example: “?R?EFA??” → ARTEFACT, FREEFALL.
 Example: “??A?M” → ALARM, CHARM, CHASM, PSALM, SWARM…
-1. Additional challenges from Ross can be found [here](Resources\Ross-Jamieson-Word-Challenges.docx) (Word document).
+1. Additional challenges from Ross can be found [here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/Ross-Jamieson-Word-Challenges.docx) (Word document).
 
 ## Other Text-Based Challenges
 
@@ -34,6 +34,16 @@ These text-based challenges do not rely on the importing of a text file:
 
 1. **Blobs** - A blob is an arrangement of at least 5 letters of the same kind that are connected... [[Link]](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Challenges/Blobs_Programming_Challenge.ipynb)
 
+## Other Resources
+
+1. [Here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/Ross-Jamieson-Word-Challenges.docx) is Ross Jamieson's original Word Doc of challenges. 
+1. [Here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/5_Letter_Words.ipynb) is the notebook that was used to create the [5-letter words datafile](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/5-letter-words.txt) that is needed for one challenge. 
+
+## Text Files
+
+1. [5-Letter Words](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/5-letter-words.txt)
+1. [A "clean" dictionary](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/cleandict.txt) with over 80,000 words in it. If you spot any inappropriate words in it, please open an issue above. 
+1. [Top 1000 words](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/1000-top-words.txt)
 
 ## Looking for Contributors
 
