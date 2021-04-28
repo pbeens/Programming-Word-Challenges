@@ -32,7 +32,7 @@ Example: “??A?M” → ALARM, CHARM, CHASM, PSALM, SWARM…
 
 These text-based challenges do not rely on the importing of a text file:
 
-1. **Blobs** - A blob is an arrangement of at least 5 letters of the same kind that are connected... [[Link]](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Blobs_Programming_Challenge.ipynb)
+1. **Blobs** - A blob is an arrangement of at least 5 letters of the same kind that are connected... [[Link]](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Challenges/Blobs_Programming_Challenge.ipynb)
 
 
 ## Looking for Contributors
