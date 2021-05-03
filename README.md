@@ -1,8 +1,19 @@
 # Programming Word Challenges
 
- A place for programming teachers to find resources related to word challenges. 
+ A place for programming teachers to find resources related to word challenges. In addition, a [template](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Word_Challenges_Template_Colab_Python.ipynb) has been created for [Google Colab](https://colab.research.google.com/) which can be used do do any of these challenges.
 
- ## Colab (Python) Template
+ ## Table of Contents
+
+ * [Colab Template](#colab-template)
+ * [Example Challenges](#example-challenges)
+ * [Other Text-Based Challenges](#other-text-based-challenges)
+ * [Other Resources](#other-resources)
+ * [Text Files](#text-files)
+ * [Looking for Contributors](#looking-for-contributors)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+ ## Colab Template
 
  The Google Colab template for doing these challenges in Python can be found [here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Word_Challenges_Template_Colab_Python.ipynb).
 
