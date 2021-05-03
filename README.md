@@ -24,13 +24,13 @@ The following challenges have been submitted by Ross Jamieson:
 Example: VANDAL (Virginia, North Dakota, Alabama).
 1. **Backwards** - List all words for which the reversed word is also a word, but not a palindrome. Example: STRESSED
 1. **Odd/Even** - List all words for which the odd/even letters make another word. The “odd letters” are the 1st, 3rd, 5th, etc, and the “even letters” are the 2nd, 4th, 6th, …. Only words of 5+ letters (for odd) and 6+ letters (for even) should be considered, i.e. the resulting word must be 3+ letters. Examples: DERBY (which makes DRY), UNBUNDLED (which makes NUDE)
-1. **Crossword Solver** - Given a String parameter in the form “??E?R”, find all words that fit.Example: “?R?EFA??” → ARTEFACT, FREEFALL.
-Example: “??A?M” → ALARM, CHARM, CHASM, PSALM, SWARM…
+1. **Crossword Solver** - Given a String parameter in the form “??E?R”, find all words that fit.Example: “?R?EFA??” → ARTEFACT, FREEFALL. Example: “??A?M” → ALARM, CHARM, CHASM, PSALM, SWARM…
+1. **Minus One** - Given a String parameter, list all words that can be made by removing a single letter, and keeping the remaining order intact. The parameter doesn’t have to be a “word” from the original list. Example: PLEASE → LEASE, PLEAS Example: COOP → COP, COO (note that cop should not be repeated) Example: APPLE → none
 1. Additional challenges from Ross can be found [here](https://github.com/pbeens/Programming-Word-Challenges/blob/main/Resources/Ross-Jamieson-Word-Challenges.docx) (Word document).
 
 Submitted by Doug Peterson:
 
-15. **Word Chain** - A well known word game involves changing one word into another word by successively substituting one letter at a time, by another letter, in such a way that the intermediate words still make sense. For example, to change the word ALONE into CRAZY could involve the following steps: ALONE → CLONE → CRONE → CRANE → CRAZE → CRAZY. Each of these intermediate words are acceptable English words. Sometimes you are forced to extend the chain to several more words, to ensure that each intermediate word be found in the dictionary. In this problem we will only consider 5-letter words, and for convenience, there is a “dictionary” of 5-letter words available [here](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/5-letter-words.txt).
+16. **Word Chain** - A well known word game involves changing one word into another word by successively substituting one letter at a time, by another letter, in such a way that the intermediate words still make sense. For example, to change the word ALONE into CRAZY could involve the following steps: ALONE → CLONE → CRONE → CRANE → CRAZE → CRAZY. Each of these intermediate words are acceptable English words. Sometimes you are forced to extend the chain to several more words, to ensure that each intermediate word be found in the dictionary. In this problem we will only consider 5-letter words, and for convenience, there is a “dictionary” of 5-letter words available [here](https://raw.githubusercontent.com/pbeens/Programming-Word-Challenges/main/Datafiles/5-letter-words.txt).
 
 ## Other Text-Based Challenges
 
