@@ -20,7 +20,7 @@
 ## Example Challenges
 
 1. What are the longest words in the list?
-1. If a-1, b=2, etc., what words add up to 100?
+1. If a=1, b=2, etc., what words add up to 100?
 1. What is the longest word that ends with "ar".
 1. What is the most common letter? Vowel? Consonant?
 1. How many palindromes are in the list?
